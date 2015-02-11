@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c41fab829a0475141af9017e3f060f72
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - excluded: {fileID: 100008, guid: f6338851b98289141939af5da495286c, type: 2}
+  - special1: {fileID: 100008, guid: b292dd2be55f40c45940ef99038a32e4, type: 2}
+  - special2: {fileID: 100008, guid: 3b03bed58311f2a449c747de6d8ffda1, type: 2}
+  - endAudio: {fileID: 100000, guid: 297e71896434a9f4bbb25aee8f9fd7ae, type: 2}
+  - scoreText: {fileID: 13200000, guid: 224449699e3faf549be85060945129d6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
